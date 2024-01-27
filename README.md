@@ -30,5 +30,4 @@ Hi, I'm Ram! I'm passionate about programming and currently working in the softw
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ram-ram007&amp;theme=gotham&amp;hide_border=true" style="max-width: 100%;">
 
 
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ram-ram007" /></p>
 
