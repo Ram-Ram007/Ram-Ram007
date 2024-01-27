@@ -27,7 +27,6 @@ Hi, I'm Ram! I'm passionate about programming and currently working in the softw
 
 
 
-## 📊 GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ram-ram007&amp;theme=gotham&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true" style="max-width: 100%;">
 
