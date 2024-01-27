@@ -27,7 +27,8 @@ Hi, I'm Ram! I'm passionate about programming and currently working in the softw
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-ram007&amp;theme=gotham&amp;" alt="ram-ram007" /></p>
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ram-ram007&" alt="ram-ram007" /></p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ram-ram007&amp;theme=gotham&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" alt="" style="max-width: 100%;">
+
 
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ram-ram007" /></p>
 
