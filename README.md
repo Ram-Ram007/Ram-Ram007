@@ -13,10 +13,6 @@ Hi, I'm Ram! I'm passionate about programming and currently working in the softw
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ramajeyam-s-451014250/)
-- [Personal Website](https://ram-ram007.github.io/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/ram-ram007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ram-ram007/" height="30" width="40" /></a>
 <a href="https://twitter.com/ram_ram2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ram_ram2411" height="30" width="40" /></a>
